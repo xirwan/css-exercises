@@ -1,0 +1,10 @@
+div {
+    /* color untuk text */
+    color: white;
+    /* background color untuk background */
+    background-color: red;
+    font-size: 30px;
+    /* font-weight untuk ketebalan font */
+    font-weight: 700;
+    text-align: center;
+}
